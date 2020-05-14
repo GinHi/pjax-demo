@@ -1,0 +1,9 @@
+# git
+!.gitkeep
+
+# ide
+.idea/
+
+# MAC
+__MACOSX
+.DS_Store
